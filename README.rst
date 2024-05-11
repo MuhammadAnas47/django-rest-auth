@@ -1,22 +1,11 @@
-===========
-Deprecated
-===========
-Please use https://github.com/iMerica/dj-rest-auth as this project is no longer maintained. Thanks!
+
+Please use https://github.com/iMerica/dj-rest-auth.
 
 
 Welcome to django-rest-auth
 ===========================
 
-.. image:: https://travis-ci.org/Tivix/django-rest-auth.svg
-    :target: https://travis-ci.org/Tivix/django-rest-auth
-
-
-.. image:: https://coveralls.io/repos/Tivix/django-rest-auth/badge.svg
-    :target: https://coveralls.io/r/Tivix/django-rest-auth?branch=master
-
-
-.. image:: https://readthedocs.org/projects/django-rest-auth/badge/?version=latest
-    :target: https://readthedocs.org/projects/django-rest-auth/?badge=latest
+Note: The Demo provided in https://github.com/iMerica/dj-rest-auth was need some edits bcz not working if just running with new DJ. So the Demo version provided here is working fine.
 
 
 Django-rest-auth provides a set of REST API endpoints for Authentication and Registration
